@@ -1,4 +1,4 @@
-# Tecnologías & prácticas demandadas (2026-ready)
+# Tecnologías & prácticas demandadas
 
 Este repositorio reúne **ejemplos prácticos, notas técnicas y criterios de arquitectura** enfocados en las tecnologías y prácticas para el desarrollo web moderno hacia 2026.
 
