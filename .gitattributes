@@ -1,0 +1,3 @@
+# Normaliza los fines de línea a LF en todo el repo.
+# Evita el churn CRLF <-> LF al editar desde Windows/WSL.
+* text=auto eol=lf

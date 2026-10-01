@@ -18,4 +18,11 @@ Pensado para desarrolladores que buscan **no solo features sino la escalabilidad
 - Full Stack Engineers
 - Tech Leads
 
+## Ejemplos
+
+| Práctica | Lenguaje | Ejemplo |
+|----------|----------|---------|
+| Contratos de tipos entre capas | TypeScript | [`typescript/type-contract`](typescript/type-contract/CONTRACT_EXAMPLE.md) |
+| Idempotencia en pagos | Go | [`go/idempotency`](go/idempotency/IDEMPOTENCY_EXAMPLE.md) |
+
 ---
